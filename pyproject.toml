@@ -6,6 +6,8 @@ authors = ["aaakbw <<>>"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
+pandas = "^1.2.4"
+shapely = "^1.7.1"
 
 [tool.poetry.dev-dependencies]
 
